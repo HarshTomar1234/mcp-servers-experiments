@@ -1,0 +1,16 @@
+{
+    "mcpServers": {
+      "weather": {
+        "command": "C:\\Users\\Harsh\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\uv.EXE",
+        "args": [
+          "run",
+          "--with",
+          "mcp[cli]",
+          "mcp",
+          "run",
+          "D:\\MCP Server\\mcp_example\\server\\weather.py"
+        ]
+      }
+    }
+}
+  
