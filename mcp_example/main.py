@@ -1,5 +1,5 @@
 def main():
-    print("Hello from mcp-example!")
+    print("Hello from mcp learner!")
 
 
 if __name__ == "__main__":
