@@ -123,9 +123,6 @@ If you're having trouble connecting to the National Weather Service API:
 2. The NWS API may have rate limits or be experiencing downtime
 3. Ensure your User-Agent is set correctly in the requests
 
-## License
-
-[Specify your license here]
 
 ## Acknowledgements
 
