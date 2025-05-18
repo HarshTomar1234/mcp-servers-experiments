@@ -18,11 +18,12 @@ A Model Control Protocol (MCP) server for retrieving weather alerts and informat
 
 ### Setup
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd mcp_example
-   ```
+# 1. Clone the full repository
+```bash
+git clone https://github.com/HarshTomar1234/mcp-servers-experiments.git
+cd mcp-servers-experiments/mcp_example
+```
+
 
 2. Create a virtual environment:
    ```bash
