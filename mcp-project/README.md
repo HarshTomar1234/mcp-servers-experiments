@@ -1,10 +1,10 @@
 # MCP-Project: Claude AI with Web Search Integration
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project implements a sophisticated **Model Context Protocol (MCP)** integration that enables Claude AI to perform web searches and provide enhanced responses with real-time information. The system combines Claude's conversational AI capabilities with DuckDuckGo's search API through a custom MCP server architecture.
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 The project follows a modular, microservices-inspired architecture with clear separation of concerns:
 
@@ -422,7 +422,7 @@ print(f"Debug: {variable_name}")
 - **Rate Limiting**: Implement rate limiting for production deployments
 - **HTTPS**: Use HTTPS in production environments
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 ### Planned Features
 1. **Multiple Search Engines**: Google, Bing integration
@@ -444,7 +444,7 @@ print(f"Debug: {variable_name}")
 - **Concurrent Requests**: Supports multiple simultaneous users
 - **Memory Usage**: ~50MB base memory footprint
 
-## 📝 Development Notes
+## Development Notes
 
 This project demonstrates several advanced software engineering concepts:
 - **MCP Protocol Implementation**: Custom protocol for AI tool integration
